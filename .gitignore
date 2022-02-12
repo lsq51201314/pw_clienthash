@@ -1,3 +1,18 @@
+/logs
+/tmp
+main
+main.exe
+/gamed/config
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -10,6 +25,3 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
